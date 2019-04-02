@@ -7,3 +7,5 @@
 ![人魔七七公众号](https://upload-images.jianshu.io/upload_images/1304277-e7a0013199e72fbc.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/400)
 
 ## Day01 - Runloop 是什么
+
+## Day02 - Runloop 和线程的关系
